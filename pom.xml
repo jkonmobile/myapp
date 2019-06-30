@@ -105,7 +105,7 @@
         <artifactId>appengine-maven-plugin</artifactId>
         <version>1.9.76</version>
         <configuration>
-          <appId>your-app-id</appId> <!-- Override appengine-web.xml <project> -->
+          <appId>my-project-8212myapp</appId> <!-- Override appengine-web.xml <project> -->
           <version>1</version>
           <fullScanSeconds>1</fullScanSeconds>
           <retainUploadDir>true</retainUploadDir>
